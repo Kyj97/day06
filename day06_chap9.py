@@ -58,3 +58,5 @@ for k, v in groups.items():
     for i in v:
         if i != '승리':
             print(i)
+
+
